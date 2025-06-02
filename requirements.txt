@@ -1,0 +1,9 @@
+# Bibliothèques à installer (requirements.txt) :
+pandas
+numpy
+matplotlib
+geopandas
+shapely
+reportlab
+# Installation en local via :
+# pip install -r Requirements.txt
