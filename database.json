@@ -1,0 +1,69 @@
+{
+    "fatimaaah": {
+        "lge": {
+            "id": "2e4b42e5-3be0-489a-8d7d-f309a31bb9fb",
+            "resultats": null
+        },
+        "lte": {
+            "id": "e299f0ed-cbd3-4f72-97b4-3158de91d534",
+            "resultats": null
+        }
+    },
+    "fatou": {
+        "4G": {
+            "id": "3e59406d-c288-4bdd-9812-ff7129381d3e",
+            "resultats": {
+                "Environnement": "Rural",
+                "Population totale": 122,
+                "Taux de p\u00e9n\u00e9tration (%)": -2,
+                "Population active": -2,
+                "Trafic total (Erlang)": -0.06,
+                "D\u00e9bit total (Mbps)": -0.37,
+                "Surface cellule (km\u00b2)": 23.38,
+                "Nombre de cellules n\u00e9cessaires": 5,
+                "Capacit\u00e9 totale (Mbps)": 75,
+                "Saturation": "Capacit\u00e9 suffisante",
+                "Recommandation": "R\u00e9seau optimal",
+                "Nombre de sites (eNodeB)": 2
+            }
+        }
+    },
+    "G": {
+        "RTS": {
+            "id": "968ba58f-31f7-4170-ae9a-a68ca556fe55",
+            "resultats": null
+        },
+        "GMSSSS": {
+            "id": "0c843529-9d68-4e66-88fc-a29cf0d8b399",
+            "resultats": null
+        }
+    },
+    "fatima": {
+        "zd": {
+            "description": "dbeu",
+            "pays": "senegal",
+            "ville": "kolda",
+            "resultats": {
+                "Population active": 35000,
+                "Trafic total (Erlang)": 875.0,
+                "D\u00e9bit total (Mbps)": 5250.0,
+                "Superficie estim\u00e9e (km\u00b2)": 10000.0,
+                "Rayon Cellule (km)": 3.02,
+                "Nombre Cellules": 350
+            }
+        },
+        "\tExtension LTE Kaffrine Nord": {
+            "description": "Couverture des zones rurales et axes routiers de Kaffrine (Phase 2)",
+            "pays": "Senegal",
+            "ville": "Kaffrine",
+            "resultats": {
+                "Population active": 84000,
+                "Trafic total (Erlang)": 2100.0,
+                "D\u00e9bit total (Mbps)": 12600.0,
+                "Superficie estim\u00e9e (km\u00b2)": 24000.0,
+                "Rayon Cellule (km)": 3.02,
+                "Nombre Cellules": 841
+            }
+        }
+    }
+}
